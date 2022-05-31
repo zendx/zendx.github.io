@@ -1558,3 +1558,19 @@ ul.tag-widget-list li a:hover {
     color: #fff;
     background:#54babb;
 }
+
+.navbar-brand img {
+    width: 160px;
+}
+
+.float-select select {
+    padding: 19px;
+    color: #848484;
+    font-size: 14px;
+    font-family: Courier New;
+    width: 100%;
+}
+
+.float-select {
+    margin-bottom: 10px;
+}
